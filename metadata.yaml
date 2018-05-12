@@ -1,10 +1,16 @@
 _repo: Francisco-the-Filipino_47815
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47815-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Little, Burtis M.
     gutenberg_agent_id: '44479'
     url: http://www.gutenberg.org/2009/agents/44479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47815#Francisco-the-Filipino
 gutenberg_issued: '2014-12-29'
 gutenberg_type: Text
 identifiers:
